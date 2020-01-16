@@ -18,7 +18,9 @@ binoculars:望远镜/双筒望远镜
 
 # Pay attention:
 The ":" is an English punctuation!
+
 "source.text" should be in pure text mode, and you should not modify its name.
+
 
 
 When you have set the words, just compile and run the "main.py" file with a python3 compiler!
