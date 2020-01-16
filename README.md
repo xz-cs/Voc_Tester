@@ -23,7 +23,7 @@ The ":" is an English punctuation!
 
 
 <br>
-# Run
+# Run<br>
 After you have set the words, just compile and run the "main.py" file with a python3 compiler!
 
 There are two modes. Some special rules will be clarified in the program.
