@@ -7,7 +7,7 @@ You can set the words and their Chinese translations that you are trying to reme
 {English}:{Chinese Translation}<br>
 {English}:{Chinese Translation}<br>
 
-# If there is more than one possible Chinese Translation, devide them by a '/':<br>
+# If there are more than one possible Chinese Translations, devide them by a '/':<br>
 {English}:{Chinese Translation1}/{Chinese Translation2}<br>
 {English}:{Chinese Translation1}/{Chinese Translation2}/{Chinese Translation3}/.../{Chinese Translation n}<br>
 
