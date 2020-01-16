@@ -22,9 +22,9 @@ The ":" is an English punctuation!
 "source.text" should be in pure text mode, and you should not modify its name.
 
 
-
-
-When you have set the words, just compile and run the "main.py" file with a python3 compiler!
+<br>
+# Run
+After you have set the words, just compile and run the "main.py" file with a python3 compiler!
 
 There are two modes. Some special rules will be clarified in the program.
 
