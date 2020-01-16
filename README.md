@@ -30,6 +30,6 @@ There are two modes. Some special rules will be clarified in the program.
 
 <br>
 
-# Vocabulary Tester 1.0
+# Vocabulary Tester 1.0.1
 # Created By Zhang Xun at Jan 16 2020 with IDLE
 # © 2020 Zhang Xun. All Rights Reserved.
