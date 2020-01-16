@@ -17,7 +17,7 @@ while(mode!="1" and mode!="2"):
 #note
 print("\nNote 1: If you want to stop the test in the middle, simply input '#' !")
 if(mode=="1"):
-  print("Note 2: In this mode, upper and lower case numbers are regarded as the same!\n")
+  print("Note 2: In this mode, upper and lower case letters are regarded as the same!\n")
 else:
   print("Note 2: In this mode, you can input whichever Chinese translation you set before!\n")
 
