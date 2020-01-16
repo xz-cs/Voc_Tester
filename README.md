@@ -4,7 +4,7 @@ You can set the words and their Chinese translations that you are trying to reme
 
 !!!IMPORTANT!!!
 # The format :
-{English}:{Chinese Translation}[br]
+{English}:{Chinese Translation}<br>
 {English}:{Chinese Translation}
 
 # If there is more than one possible Chinese Translation, devide them by a '/':
