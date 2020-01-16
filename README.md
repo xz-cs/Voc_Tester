@@ -19,3 +19,14 @@ binoculars:望远镜/双筒望远镜
 # Pay attention:
 The ":" is an English punctuation!
 "source.text" should be in pure text mode, and you should not modify its name.
+
+
+When you have set the words, just compile and run the "main.py" file with a python3 compiler!
+
+There are two modes. Some special rules will be clarified in the program.
+
+
+
+# Vocabulary Tester 1.0
+# Created By Zhang Xun at Jan 16 2020 with IDLE
+# © 2020 Zhang Xun. All Rights Reserved.
